@@ -1,5 +1,7 @@
 package ui;
 
+import javax.swing.*;
+
 public class MainMenu{
     public static void launchMenu(){
         JFrame MainFrame = new JFrame();
